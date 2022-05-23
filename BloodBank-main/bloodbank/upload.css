@@ -1,0 +1,30 @@
+input{
+    box-sizing: border-box;
+    border: none;
+    background-color:rgba(153, 59, 42, 0);
+    border-bottom:2px solid grey;
+    color:grey;
+    width:95%;
+    margin-bottom:20px;
+    margin-left:10px;
+    font-style: italic;
+    color:rgba(165, 164, 164, 0)
+   }
+   label{
+    font-size:20px;
+    margin-left:10px;
+    color:black;
+   
+   }
+   button{
+    height:40px; border-radius:10px; font-style: italic;
+    justify-content:center;width:130px;
+        }
+    input:focus{
+        border-bottom:2px solid grey;
+        border:0;
+    }
+    p{
+        font-size:20px;
+      
+       }
